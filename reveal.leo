@@ -33,10 +33,21 @@
 <v t="amd.20150919113132.1"><vh>@edit publishconf.py</vh></v>
 </v>
 </v>
-<v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh></v>
+<v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh>
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
 <v t="leo.20160109213119.1"><vh>@button user pelican</vh></v>
-<v t="leo.20160109213331.1"><vh>@path ./</vh>
+</v>
+<v t="leo.20160109215932.1"><vh>@path pelican</vh>
+<v t="leo.20160109215932.2"><vh>以下為設定檔 ------------</vh></v>
+<v t="leo.20160109215932.3"><vh>@edit publishconf.py</vh></v>
+<v t="leo.20160109220107.1"><vh>@path content</vh>
+<v t="leo.20160109220107.2"><vh>@edit 2015cphww1.md</vh></v>
+<v t="leo.20160109220107.3"><vh>@edit 2015cphww7.md</vh></v>
+<v t="leo.20160109220107.4"><vh>@edit 2015cpnote7.md</vh></v>
+<v t="leo.20160109220107.5"><vh>@edit 2015cpnote1.md</vh></v>
+</v>
+</v>
+<v t="leo.20160109213331.1" a="E"><vh>@path ./</vh>
 <v t="leo.20160109213331.2"><vh>以下為投影片 ------------</vh></v>
 <v t="leo.20160109213331.3"><vh>@edit 40423201_cp_w1_p.html</vh></v>
 <v t="leo.20160109213331.4"><vh>@edit 40423201_cp_w2_p.html</vh></v>
@@ -53,31 +64,35 @@
 <v t="leo.20160109213331.15"><vh>@edit 40423201_cp_w14_p.html</vh></v>
 <v t="leo.20160109213331.16"><vh>@edit 40423201_cp_w15_p.html</vh></v>
 <v t="leo.20160109213331.17"><vh>@edit 40423201_cp_w17_p.html</vh></v>
-<v t="leo.20160109213331.18" a="E"><vh>@path pelican</vh>
-<v t="leo.20160109213331.19"><vh>以下為設定檔 ------------</vh></v>
-<v t="leo.20160109213331.20"><vh>@edit publishconf.py</vh></v>
-<v t="leo.20160109213331.21" a="E"><vh>@path content</vh>
-<v t="leo.20160109213331.22"><vh>以下為網誌 md 檔案 ------------</vh></v>
-<v t="leo.20160109213331.23"><vh>@edit 40423201_cp_w1.md</vh></v>
-<v t="leo.20160109213331.24"><vh>@edit 40423201_cp_w2.md</vh></v>
-<v t="leo.20160109213331.25"><vh>@edit 40423201_cp_w3.md</vh></v>
-<v t="leo.20160109213331.26"><vh>@edit 40423201_cp_w4.md</vh></v>
-<v t="leo.20160109213331.27"><vh>@edit 40423201_cp_w5.md</vh></v>
-<v t="leo.20160109213331.28"><vh>@edit 40423201_cp_w6.md</vh></v>
-<v t="leo.20160109213331.29"><vh>@edit 40423201_cp_w7.md</vh></v>
-<v t="leo.20160109213331.30"><vh>@edit 40423201_cp_w8.md</vh></v>
-<v t="leo.20160109213331.31"><vh>@edit 40423201_cp_w9.md</vh></v>
-<v t="leo.20160109213331.32"><vh>@edit 40423201_cp_w11.md</vh></v>
-<v t="leo.20160109213331.33"><vh>@edit 40423201_cp_w12.md</vh></v>
-<v t="leo.20160109213331.34"><vh>@edit 40423201_cp_w13.md</vh></v>
-<v t="leo.20160109213331.35"><vh>@edit 40423201_cp_w14.md</vh></v>
-<v t="leo.20160109213331.36"><vh>@edit 40423201_cp_w15.md</vh></v>
-<v t="leo.20160109213331.37"><vh>@edit 40423201_cp_w17.md</vh></v>
+<v t="leo.20160109220457.1" a="E"><vh>@path pelican</vh>
+<v t="leo.20160109220457.2"><vh>以下為設定檔 ------------</vh></v>
+<v t="leo.20160109220457.3"><vh>@edit publishconf.py</vh></v>
+<v t="leo.20160109220457.4"><vh>@path content</vh>
+<v t="leo.20160109220457.5"><vh>@edit 2015cphww1.md</vh></v>
+<v t="leo.20160109220457.6"><vh>@edit 2015cphww7.md</vh></v>
+<v t="leo.20160109220457.7"><vh>@edit 2015cpnote7.md</vh></v>
+<v t="leo.20160109220457.8"><vh>@edit 2015cpnote1.md</vh></v>
 </v>
 </v>
+<v t="leo.20160109220402.1" a="E"><vh>@path content</vh>
+<v t="leo.20160109220538.1"><vh>以下為網誌 md 檔案 ------------</vh></v>
+<v t="leo.20160109220558.1"><vh>@edit 2015cphww1.md</vh></v>
+<v t="leo.20160109220625.1"><vh>@edit 40423201_cp_w1.md</vh></v>
+<v t="leo.20160109220632.1"><vh>@edit 40423201_cp_w2.md</vh></v>
+<v t="leo.20160109220638.1"><vh>@edit 40423201_cp_w3.md</vh></v>
+<v t="leo.20160109220645.1"><vh>@edit 40423201_cp_w4.md</vh></v>
+<v t="leo.20160109220651.1"><vh>@edit 40423201_cp_w5.md</vh></v>
+<v t="leo.20160109220658.1"><vh>@edit 40423201_cp_w6.md</vh></v>
+<v t="leo.20160109220706.1"><vh>@edit 40423201_cp_w7.md</vh></v>
+<v t="leo.20160109220714.1"><vh>@edit 40423201_cp_w8.md</vh></v>
+<v t="leo.20160109220720.1"><vh>@edit 40423201_cp_w9.md</vh></v>
+<v t="leo.20160109220726.1"><vh>@edit 40423201_cp_w11.md</vh></v>
+<v t="leo.20160109220731.1"><vh>@edit 40423201_cp_w12.md</vh></v>
+<v t="leo.20160109220736.1"><vh>@edit 40423201_cp_w13.md</vh></v>
+<v t="leo.20160109220742.1"><vh>@edit 40423201_cp_w14.md</vh></v>
+<v t="leo.20160109220749.1"><vh>@edit 40423201_cp_w15.md</vh></v>
+<v t="leo.20160109220754.1"><vh>@edit 40423201_cp_w17.md</vh></v>
 </v>
-<v t="amd.20150919114010.1"><vh>@path pelican\content</vh>
-<v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
 <v t="amd.20150913233943.1"><vh>@clean cadpbw1.html</vh>
@@ -2180,7 +2195,6 @@ ip.config.ProfileDir </t>
 <t tx="amd.20150919112710.1"></t>
 <t tx="amd.20150919113340.1"></t>
 <t tx="amd.20150919113957.1"></t>
-<t tx="amd.20150919114010.1"></t>
 <t tx="amd.20150919120205.1"></t>
 <t tx="amd.20150919124128.1">@language python
 import os
@@ -2331,10 +2345,1040 @@ import os
 os.system("pelican pelican/content -o ./ -s pelican/publishconf.py -t ../../theme/pelican-octopress")
 g.es("user pelican 執行完畢")</t>
 <t tx="leo.20160109213331.1"></t>
-<t tx="leo.20160109213331.18"></t>
-<t tx="leo.20160109213331.19"></t>
 <t tx="leo.20160109213331.2"></t>
-<t tx="leo.20160109213331.21"></t>
-<t tx="leo.20160109213331.22"></t>
+<t tx="leo.20160109215932.1"></t>
+<t tx="leo.20160109215932.2"></t>
+<t tx="leo.20160109220107.1"></t>
+<t tx="leo.20160109220402.1"></t>
+<t tx="leo.20160109220457.1"></t>
+<t tx="leo.20160109220457.2"></t>
+<t tx="leo.20160109220457.4"></t>
+<t tx="leo.20160109220538.1"></t>
+<t tx="leo.20160109220558.1">@language md
+Title: 2015 計算機程式 作業一
+Date: 2015-09-19 11:41
+Modified: 2015-09-19 11:41
+Category: Python
+Tags: pelican, publishing
+Slug: 2015cp_hw_w1
+Authors: coursemdetw
+Summary: 作業一摘要
+以下為作業一內容
+
+利用 iframe 嵌入投影片:
+
+&lt;iframe src="simplest.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+[作業一投影片](simplest.html){:target="_blank"}
+
+使用 H1 標題
+============
+
+文字段落間若要跳行, 必須插入空白行, 否則將會被 Markdown 視連續的資料
+
+使用. *斜體文字*, **黑體文字**, 以及 `單線文字`. 表列資料可以寫為:
+
+  * 第1項說明
+  * 第2項說明
+  * 第3項說明
+
+特別注意 --- 不包括星號 --- 表列文字從第四欄位開始.
+
+&gt; 引用的內容寫在這裡
+&gt; 主要是以大於的符號開頭.
+&gt;
+&gt; 其中也可以利用空白行隔開,
+&gt; 整區都是引用內容的範圍.
+
+em-dash 符號是3個 dashes. 利用兩個 dashes 來連接開始與結束 (ex., "這個禮拜要閱讀章節 12--14"). 3個逗點 ... 則會被轉為 ellipsis.
+pelican 可以支援 unicode. ☺
+
+H2 標題
+------------
+
+有數字的表列資料:
+
+ 1. 第1項
+ 2. 第2項
+ 3. 第3項
+
+跟前面一樣, 文字從第四個欄位開始.
+
+程式碼的表達:
+
+    # for 重複迴圈 ...
+    for i in 1 .. 10 { 呼叫特定函式(i) }
+
+這裡也是要空4個 space 鍵. 
+
+除了每一行空4個空白, 也可以使用 delimited 來界定程式碼範圍, 就像這樣:
+
+~~~
+define foobar() {
+    print("歡迎進入程式的世界!")
+}
+~~~
+
+(這樣的表達比較容易用來複製程式碼內容).
+
+python 的程式碼, 可以寫成下列格式
+
+~~~python
+import time
+# 以下會從 0 數到 9
+for i in range(10):
+    # 稍微暫停一下
+    time.sleep(0.5)
+    print(i)
+~~~
+
+### H3 標題 ###
+
+以下則為內嵌式的表列法t:
+
+ 1. 首先, 將完成下列元件的設計:
+
+      * 轉向機構
+      * 煞車系統
+      * 踩踏機構
+
+ 2. 接著連繫工業設計部門.
+
+ 3. 確定上述元件的各項設計與用料都符合原始設計規格的要求
+    查驗表:
+
+        各元件材質
+        車蓋顏色
+        機構調校流程
+        需要熱處理的元件列表
+
+    完成上述查驗後, 請通知品保部門, 以便接續處理.
+
+特別注意各階資料都以內縮4個空白鍵來加以區隔, 包含最後一行.
+
+Markdown 的超文件連結寫法 [連到 Google](http://www.google.com){:target="_blank"}, 也可以連到同目錄下的檔案 [cadpbw1.html](cadpbw1.html){:target="_blank"}, 也能使用註腳 [^1].
+
+[^1]: 註腳會連結到這裡.
+
+放入圖檔, 可以直接利用 html 的 img 標註:
+
+&lt;img src="images/3d_parts_viewer.png" width="250" alt="3D 零件檢視"&gt;&lt;/img&gt;
+
+Vimeo 影片嵌入(直接從 Vimeo 影片上的 Share 複製 html 碼):
+
+&lt;iframe src="https://player.vimeo.com/video/137724068" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/137724068"&gt;Welcome Speech&lt;/a&gt; from &lt;a href="https://vimeo.com/user24079973"&gt;虎尾科大機械設計工程系 KMOL&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
+<t tx="leo.20160109220625.1">@language md
+Title: 2015 計算機程式 作業ㄧ
+Date: 2015-9/18 10:41
+Category: Python
+Tags: pelican, publishing
+Slug: 40423201_cp_w1
+Authors: 40423201
+Summary: 作業ㄧ摘要
+
+以下為作業ㄧ內容
+
+利用 iframe 嵌入投影片:
+
+&lt;iframe src="40423201_cp_w1_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+[作業四投影片](40423201_cp_w1_p.html){:target="_blank"}
+
+
+</t>
+<t tx="leo.20160109220632.1">@language md
+Title: 2015 計算機程式 作業二
+Date: 2015-9/25 2:36
+Category: Python
+Tags: pelican, publishing
+Slug: 40423201_cp_w2
+Authors: 40423201
+Summary: 作業二摘要
+
+以下為作業二內容
+
+利用 iframe 嵌入投影片:
+
+&lt;iframe src="40423201_cp_w2_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+[作業投影片](40423201_cp_w2_p.html){:target="_blank"}</t>
+<t tx="leo.20160109220638.1">@language md
+Title: 2015 計算機程式 作業三
+Date: 2015-10/2 2:36
+Category: Python
+Tags: pelican, publishing
+Slug: 40423201_cp_w3
+Authors: 40423201
+Summary: 作業三摘要
+
+以下為作業三內容
+
+利用 iframe 嵌入投影片:
+
+&lt;iframe src="40423201_cp_w3_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+[作業投影片](40423201_cp_w3_p.html){:target="_blank"}</t>
+<t tx="leo.20160109220645.1">@language md
+Title: 2015 計算機程式 作業四
+Date: 2015-10/9 2:36
+Category: Python
+Tags: pelican, publishing
+Slug: 40423201_cp_w4
+Authors: 40423201
+Summary: 作業四摘要
+
+以下為作業四內容
+
+利用 iframe 嵌入投影片:
+
+&lt;iframe src="40423201_cp_w4_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+[作業投影片](40423201_cp_w4_p.html){:target="_blank"}</t>
+<t tx="leo.20160109220651.1">@language md
+Title: 2015 計算機程式 作業五
+Date: 2015-10/16 2:36
+Category: Python
+Tags: pelican, publishing
+Slug: 40423201_cp_w5
+Authors: 40423201
+Summary: 作業五摘要
+
+以下為作業五內容
+
+利用 iframe 嵌入投影片:
+
+&lt;iframe src="40423201_cp_w5_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+[作業投影片](40423201_cp_w5_p.html){:target="_blank"}</t>
+<t tx="leo.20160109220658.1">@language md
+Title: 2015 計算機程式 作業六
+Date: 2015-10/30 2:36
+Category: Python
+Tags: pelican, publishing
+Slug: 40423201_cp_w6
+Authors: 40423201
+Summary: 作業六摘要
+
+以下為作業六內容
+
+利用 iframe 嵌入投影片:
+
+&lt;iframe src="40423201_cp_w6_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+[作業投影片](40423201_cp_w6_p.html){:target="_blank"}
+
+&lt;iframe src="https://player.vimeo.com/video/144981300" width="500" height="294" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/144981300"&gt;第六週計算機程式操作bandicam 2015-11-07 23-21-47-182&lt;/a&gt; from &lt;a href="https://vimeo.com/user45597735"&gt;40423201&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20160109220706.1">@language md
+Title: 2015 計算機程式 作業七
+Date: 2015-11/06 12:30
+Category: Python
+Tags: pelican, publishing
+Slug: 40423201_cp_w7
+Authors: 40423201
+Summary: 作業七摘要
+
+以下為作業七內容
+
+利用 iframe 嵌入投影片:
+
+&lt;iframe src="40423201_cp_w7_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+[作業投影片](40423201_cp_w7_p.html){:target="_blank"}</t>
+<t tx="leo.20160109220714.1">@language md
+Title: 2015 計算機程式 作業八
+Date: 2015-11/06 2:36
+Category: Python
+Tags: pelican, publishing
+Slug: 40423201_cp_w8
+Authors: 40423201
+Summary: 作業八摘要
+
+以下為作業八內容
+
+利用 iframe 嵌入投影片:
+
+&lt;iframe src="40423201_cp_w8_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+[作業投影片](40423201_cp_w8_p.html){:target="_blank"}</t>
+<t tx="leo.20160109220720.1">@language md
+Title: 2015 計算機程式 作業九
+Date: 2015-11/8 2:36
+Category: Python
+Tags: pelican, publishing
+Slug: 40423201_cp_w9
+Authors: 40423201
+Summary: 作業九摘要
+
+以下為作業九內容
+
+利用 iframe 嵌入投影片:
+
+&lt;iframe src="40423201_cp_w9_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+[作業投影片](40423201_cp_w9_p.html){:target="_blank"}
+
+&lt;iframe src="https://player.vimeo.com/video/145030495" width="500" height="313" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/145030495"&gt;第九週計算機程式影片操作bandicam 2015-11-08 15-27-55-057&lt;/a&gt; from &lt;a href="https://vimeo.com/user45597735"&gt;40423201&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20160109220726.1">@language md
+Title: 2015 計算機程式 作業十
+Date: 2015-11/27 2:36
+Category: Python
+Tags: pelican, publishing
+Slug: 40423201_cp_w11
+Authors: 40423201
+Summary: 作業十摘要
+
+以下為作業十內容
+
+利用 iframe 嵌入投影片:
+
+&lt;iframe src="40423201_cp_w11_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+[作業投影片](40423201_cp_w11_p.html){:target="_blank"}
+
+&lt;iframe src="https://player.vimeo.com/video/151010897" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/151010897"&gt;ˋ&lt;/a&gt; from &lt;a href="https://vimeo.com/user45597735"&gt;40423201&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20160109220731.1">@language md
+Title: 2015 計算機程式 作業十一
+Date: 2015-12/4 2:36
+Category: Python
+Tags: pelican, publishing
+Slug: 40423201_cp_w12
+Authors: 40423201
+Summary: 作業十一摘要
+
+以下為作業十一內容
+
+利用 iframe 嵌入投影片:
+
+&lt;iframe src="40423201_cp_w12_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+[作業投影片](40423201_cp_w12_p.html){:target="_blank"}
+
+&lt;iframe src="https://player.vimeo.com/video/151012941" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/151012941"&gt;ˋ&lt;/a&gt; from &lt;a href="https://vimeo.com/user45597735"&gt;40423201&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20160109220736.1">@language md
+Title: 2015 計算機程式 作業十二
+Date: 2015-12/11 2:36
+Category: Python
+Tags: pelican, publishing
+Slug: 40423201_cp_w13
+Authors: 40423201
+Summary: 作業十二摘要
+
+以下為作業內容
+
+利用 iframe 嵌入投影片:
+
+&lt;iframe src="40423201_cp_w13_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+[作業投影片](40423201_cp_w13_p.html){:target="_blank"}
+</t>
+<t tx="leo.20160109220742.1">@language md
+Title: 2015 計算機程式 第14週 作業十三
+Date: 2015-12/18 2:36
+Category: Python
+Tags: pelican, publishing
+Slug: 40423201_cp_w14
+Authors: 40423201
+Summary: Brython 繪圖
+
+以下為作業內容
+
+利用 iframe 嵌入投影片:
+
+&lt;iframe src="40423201_cp_w14_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+[作業投影片](40423201_cp_w14_p.html){:target="_blank"}
+
+以下利用 Brython 在網頁寫 Python 繪圖
+
+&lt;!-- 導入 brython.js --&gt;
+
+&lt;script type="text/javascript" src="./../../js/Brython3.2.3-20151122-082712/brython.js"&gt;&lt;/script&gt;
+
+&lt;!-- 啟動 brython() --&gt;
+
+&lt;script&gt;
+window.onload=function(){
+brython(1);
+}
+&lt;/script&gt;
+
+&lt;!-- 以下利用 Brython 程式執行繪圖 --&gt;
+
+&lt;canvas id="plotarea" width="300" height="200"&gt;&lt;/canvas&gt;
+
+&lt;script type="text/python3"&gt;
+# 導入 doc
+from browser import document as doc
+from browser import console
+import math
+
+# 準備繪圖畫布
+canvas = doc["plotarea"]
+ctx = canvas.getContext("2d")
+
+# 開始畫直線
+ctx.beginPath()
+ctx.lineWidth = 5
+ctx.moveTo(0, 0)
+ctx.lineTo(100, 100)
+ctx.strokeStyle = "#FF0000"
+ctx.stroke()
+
+ctx.beginPath()
+ctx.lineWidth = 1
+ctx.moveTo(100, 0)
+ctx.lineTo(0, 100)
+ctx.strokeStyle = "#0000ff"
+ctx.stroke()
+
+x = 100
+y = 100
+
+# 利用 browser 模組中的 console.log 將資料列印在 console 區, 可以用來確認程式中各變數的值, 用法等同 print
+#console.log("x 值為"+str(x)+", y 值為"+str(y))
+
+# 定義一個畫圓的函式
+def circle(ctx, x, y, radius, color='black'):
+    ctx.beginPath()
+    ctx.arc(x, y, radius, 0, 2 * math.pi, False)
+    ctx.fillStyle = color
+    ctx.fill()
+    ctx.lineWidth = 1
+    ctx.strokeStyle = '#003300'
+    ctx.stroke()
+
+# 點資料數列, [ ] 為數列(list), ( ) 為元組(tuple)
+points = [(10, 10), (20, 50), (20, 100), (30, 160), (70, 25), (100, 180)]
+
+# 呼叫 circle() 函式, 畫出曲線的控制點
+for i in range(len(points)):
+    circle(ctx, points[i][0], points[i][1], 5)
+    # 利用 console.log 列出控制點座標
+    console.log("第"+str(i+1)+"點座標為: ("+str(points[i][0])+", "+str(points[i ][1])+")")
+
+# 開始根據控制點, 畫出對應曲線
+ctx.beginPath()
+ctx.moveTo(points[0][0], points[0][1])
+
+for i in range(1, len(points)-1):
+    xc = (points[i][0] + points[i + 1][0]) / 2
+    yc = (points[i][1] + points[i + 1][1]) / 2
+    ctx.quadraticCurveTo(points[i][0], points[i][1], xc, yc)
+
+#curve through the last two points
+ctx.quadraticCurveTo(points[i][0], points[i][1], points[i+1][0],points[i+1][1])
+ctx.stroke()
+&lt;/script&gt;
+
+上述繪圖程式碼:
+
+    #!html
+    &lt;!-- 導入 brython.js --&gt;
+    
+    &lt;script type="text/javascript" src="js/Brython3.2.3-20151122-082712/brython.js"&gt;&lt;/script&gt;
+    
+    &lt;!-- 啟動 brython() --&gt;
+    
+    &lt;script&gt;
+    window.onload=function(){
+    brython(1);
+    }
+    &lt;/script&gt;
+    
+    &lt;!-- 以下利用 Brython 程式執行繪圖 --&gt;
+    
+    &lt;canvas id="plotarea" width="300" height="200"&gt;&lt;/canvas&gt;
+    
+    &lt;script type="text/python3"&gt;
+    # 導入 doc
+    from browser import document as doc
+    from browser import console
+    import math
+    
+    # 準備繪圖畫布
+    canvas = doc["plotarea"]
+    ctx = canvas.getContext("2d")
+    
+    # 開始畫直線
+    ctx.beginPath()
+    ctx.lineWidth = 5
+    ctx.moveTo(0, 0)
+    ctx.lineTo(100, 100)
+    ctx.strokeStyle = "#FF0000"
+    ctx.stroke()
+    
+    ctx.beginPath()
+    ctx.lineWidth = 1
+    ctx.moveTo(100, 0)
+    ctx.lineTo(0, 100)
+    ctx.strokeStyle = "#0000ff"
+    ctx.stroke()
+    
+    x = 100
+    y = 100
+    
+    # 利用 browser 模組中的 console.log 將資料列印在 console 區, 可以用來確認程式中各變數的值, 用法等同 print
+    #console.log("x 值為"+str(x)+", y 值為"+str(y))
+    
+    # 定義一個畫圓的函式
+    def circle(ctx, x, y, radius, color='black'):
+        ctx.beginPath()
+        ctx.arc(x, y, radius, 0, 2 * math.pi, False)
+        ctx.fillStyle = color
+        ctx.fill()
+        ctx.lineWidth = 1
+        ctx.strokeStyle = '#003300'
+        ctx.stroke()
+    
+    # 點資料數列, [ ] 為數列(list), ( ) 為元組(tuple)
+    points = [(10, 10), (20, 50), (20, 100), (30, 160), (70, 25), (100, 180)]
+    
+    # 呼叫 circle() 函式, 畫出曲線的控制點
+    for i in range(len(points)):
+        circle(ctx, points[i][0], points[i][1], 5)
+        # 利用 console.log 列出控制點座標
+        console.log("第"+str(i+1)+"點座標為: ("+str(points[i][0])+", "+str(points[i ][1])+")")
+    
+    # 開始根據控制點, 畫出對應曲線
+    ctx.beginPath()
+    ctx.moveTo(points[0][0], points[0][1])
+    
+    for i in range(1, len(points)-1):
+        xc = (points[i][0] + points[i + 1][0]) / 2
+        yc = (points[i][1] + points[i + 1][1]) / 2
+        ctx.quadraticCurveTo(points[i][0], points[i][1], xc, yc)
+    
+    #curve through the last two points
+    ctx.quadraticCurveTo(points[i][0], points[i][1], points[i+1][0],points[i+1][1])
+    ctx.stroke()
+    &lt;/script&gt;
+
+</t>
+<t tx="leo.20160109220749.1">@language md
+Title: 2015 計算機程式 第15週 作業十四
+Date: 2015-12/25 2:36
+Category: Python
+Tags: pelican, publishing
+Slug: 40423201_cp_w15
+Authors: 40423201
+Summary: 作業十四摘要
+
+以下為作業內容
+
+利用 iframe 嵌入投影片:
+
+&lt;iframe src="40423201_cp_w15_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+[作業投影片](40423201_cp_w15_p.html){:target="_blank"}
+
+&lt;!-- 導入 brython.js --&gt;
+
+&lt;script type="text/javascript" src="./../../js/Brython3.2.3-20151122-082712/brython.js"&gt;&lt;/script&gt;
+
+&lt;!-- 啟動 brython() --&gt;
+
+&lt;script&gt;
+window.onload=function(){
+brython(1);
+}
+&lt;/script&gt;
+
+&lt;!-- 以下利用 Brython 程式執行繪圖 --&gt;
+
+&lt;canvas id="plotarea" width="400" height="410"&gt;&lt;/canvas&gt;
+
+&lt;script type="text/python3"&gt;
+# 導入 doc
+from browser import document as doc
+from browser import console
+import math
+
+# 準備繪圖畫布
+canvas = doc["plotarea"]
+ctx = canvas.getContext("2d")
+    
+
+ctx.beginPath()
+grd=ctx.createLinearGradient(0,0,0,400)
+grd.addColorStop(1,"#FF0000")
+grd.addColorStop(0,"#FFFF00")
+ctx.lineWidth = 20
+ctx.strokeStyle = grd
+ctx.moveTo(0,0)
+ctx.lineTo(0,400)
+ctx.stroke()
+
+ctx.beginPath()
+grd=ctx.createLinearGradient(400,0,0,0)
+grd.addColorStop(1,"#FFFF00")
+grd.addColorStop(0,"#00FF00")
+ctx.strokeStyle = grd
+ctx.moveTo(0,0)
+ctx.lineTo(400,0)
+ctx.stroke()
+
+ctx.beginPath()
+grd=ctx.createLinearGradient(0,400,0,0)
+grd.addColorStop(1,"#FFFF00")
+grd.addColorStop(0,"#00FF00")
+ctx.strokeStyle = grd
+ctx.moveTo(400,0)
+ctx.lineTo(400,400)
+ctx.stroke()
+
+ctx.beginPath()
+grd=ctx.createLinearGradient(0,0,400,0)
+grd.addColorStop(0,"#00FF00")
+grd.addColorStop(1,"#00FF00")
+ctx.strokeStyle = grd
+ctx.moveTo(0,410)
+ctx.lineTo(400,410)
+ctx.stroke()
+
+
+ctx.beginPath()
+ctx.moveTo(140, 60)
+ctx.quadraticCurveTo(170, 45, 200, 15)
+ctx.moveTo(200, 12)
+ctx.quadraticCurveTo(230, 43, 260, 61)
+ctx.moveTo(260, 60)
+ctx.lineTo(140, 60)
+
+ctx.moveTo(100, 120)
+ctx.quadraticCurveTo(150, 95, 180, 60)
+ctx.moveTo(220, 60)
+ctx.quadraticCurveTo(250, 95, 300, 120)
+ctx.moveTo(100, 120)
+ctx.lineTo(300, 120)
+
+ctx.moveTo(60, 190)
+ctx.quadraticCurveTo(120, 165, 160, 120)
+ctx.moveTo(240, 120)
+ctx.quadraticCurveTo(280, 165, 340, 190)
+ctx.moveTo(60, 190)
+ctx.lineTo(340, 190)
+
+ctx.moveTo(20, 270)
+ctx.quadraticCurveTo(80, 250, 140, 190)
+ctx.moveTo(260, 190)
+ctx.quadraticCurveTo(320, 250, 380, 270)
+ctx.moveTo(20, 270)
+ctx.lineTo(380, 270)
+
+ctx.lineWidth = 5
+ctx.strokeStyle = "#008800"
+ctx.stroke()
+
+
+ctx.fillStyle = "#663300"
+ctx.fillRect(180,271.5,40,129)
+
+
+ctx.beginPath()
+ctx.fillStyle = "#9900FF"
+ctx.fillRect(260,340,60,60)
+ctx.stroke()
+
+ctx.moveTo(260,370)
+ctx.lineTo(320,370)
+
+ctx.moveTo(290,340)
+ctx.lineTo(290,400)
+
+ctx.moveTo(290,340)
+ctx.lineTo(260,320)
+
+ctx.moveTo(290,340)
+ctx.lineTo(280,300)
+
+ctx.moveTo(258,321)
+ctx.lineTo(282,300)
+
+ctx.moveTo(290,340)
+ctx.lineTo(300,300)
+
+ctx.moveTo(290,340)
+ctx.lineTo(320,320)
+
+ctx.moveTo(298,300)
+ctx.lineTo(322,320)
+
+ctx.lineWidth = 5
+ctx.strokeStyle = "#FFCC00"
+ctx.stroke()
+
+
+ctx.beginPath()
+ctx.fillStyle = "#000099"
+ctx.fillRect(60,340,100,60)
+
+ctx.moveTo(60,370)
+ctx.lineTo(160,370)
+
+ctx.moveTo(110,340)
+ctx.lineTo(110,400)
+
+ctx.moveTo(111.5,341.5)
+ctx.lineTo(100,310)
+
+ctx.moveTo(111.5,341.5)
+ctx.lineTo(80,330)
+
+ctx.moveTo(101.5,310)
+ctx.lineTo(78.5,330)
+
+ctx.moveTo(111.5,341.5)
+ctx.lineTo(140,330)
+
+ctx.moveTo(111.5,341.5)
+ctx.lineTo(120,310)
+
+ctx.moveTo(141.5,330)
+ctx.lineTo(118.5,310)
+
+ctx.lineWidth = 5
+ctx.strokeStyle = "#CC0000"
+ctx.stroke()
+
+
+ctx.fillStyle = "#66CCFF"
+ctx.font = "23px Dutch801 XBd BT"
+ctx.fillText("Merry ",13,28)
+ctx.font = "23px Dutch801 XBd BT"
+ctx.fillText("X'mas",13,48)
+ctx.font = "23px Dutch801 XBd BT"
+ctx.fillText("&amp;",13,68)
+ctx.font = "23px Dutch801 XBd BT"
+ctx.fillText("Happy New ",13,88)
+ctx.font = "23px Dutch801 XBd BT"
+ctx.fillText("Year ",13,108)
+ctx.stroke()
+
+
+ctx.beginPath()
+
+ctx.moveTo(210, 24)
+ctx.quadraticCurveTo(200, 50, 160, 60)
+
+ctx.moveTo(160,78)
+ctx.quadraticCurveTo(200, 110, 270, 120)
+
+ctx.moveTo(285, 160)
+ctx.quadraticCurveTo(250, 180, 200, 190)
+
+ctx.moveTo(280, 210)
+ctx.quadraticCurveTo(220, 240, 70, 270)
+
+ctx.lineWidth = 4
+ctx.strokeStyle = "#CC0000"
+ctx.stroke()
+
+
+ctx.beginPath()
+
+ctx.moveTo(225, 35)
+ctx.quadraticCurveTo(220, 55, 200, 58)
+
+ctx.moveTo(230, 70)
+ctx.quadraticCurveTo(200, 105, 130, 120)
+
+ctx.moveTo(130, 150)
+ctx.quadraticCurveTo(180, 180, 300, 190)
+
+ctx.moveTo(320, 240)
+ctx.quadraticCurveTo(300, 260, 210, 270)
+
+ctx.lineWidth = 4
+ctx.strokeStyle = "#FFFF33"
+ctx.stroke()
+
+
+ctx.beginPath()
+
+ctx.moveTo(172,38)
+ctx.quadraticCurveTo(200, 50, 240, 60)
+
+
+ctx.moveTo(245, 85)
+ctx.quadraticCurveTo(240, 100, 190, 120)
+
+ctx.moveTo(260, 140)
+ctx.quadraticCurveTo(180, 180, 100, 190)
+
+ctx.moveTo(92, 230)
+ctx.quadraticCurveTo(250, 260, 330, 270)
+
+ctx.lineWidth = 3
+ctx.strokeStyle = "#0099FF"
+ctx.stroke()
+
+
+ctx.beginPath()
+ctx.fillStyle = "#FF359A"
+ctx.font = "10px ScriptS"
+ctx.fillText("40423201 ",325,398)
+ctx.stroke()
+
+&lt;/script&gt; 
+
+
+
+
+&lt;script&gt;
+window.onload=function(){
+brython(1);
+}
+&lt;/script&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/151214820" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/151214820"&gt;我的視訊&lt;/a&gt; from &lt;a href="https://vimeo.com/user45597735"&gt;40423201&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20160109220754.1">@language md
+Title: 2016 計算機程式 第17週 作業十五
+Date: 2016-1/8 1:27
+Category: Python
+Tags: pelican, publishing
+Slug: 40423201_cp_w17
+Authors: 40423201
+Summary: 作業十四摘要
+
+以下為作業內容
+
+利用 iframe 嵌入投影片:
+
+&lt;iframe src="40423201_cp_w17_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+[作業投影片](40423201_cp_w17_p.html){:target="_blank"}
+
+以下利用 Brython 在網頁中進行具彈性的 20 個小球彈跳模擬！
+換言之, 若採用相同的程式技巧與流程, 耶誕卡上的所有繪圖物件, 都可以製作成動畫!!!
+
+&lt;!-- 導入 brython.js --&gt;
+
+&lt;script type="text/javascript" src="http://brython.info/src/brython_dist.js"&gt;&lt;/script&gt;
+
+&lt;!-- 啟動 brython() --&gt;
+
+&lt;script&gt;
+window.onload=function(){
+brython(1);
+}
+&lt;/script&gt;
+
+&lt;!-- 以下利用 Brython 程式執行繪圖 --&gt;
+
+&lt;canvas id="plotarea" width="600" height="400"&gt;&lt;/canvas&gt;
+
+&lt;script type="text/python3"&gt;
+# 導入 browser 模組中的 document, 並設為 doc 變數
+from browser import document as doc
+# 導入數學模組
+import math
+# 產生各小球的亂數速度用
+import random
+# 導入 browser 中的計時器, 建立動畫用
+import browser.timer
+
+# 準備繪圖畫布
+canvas = doc["plotarea"]
+ctx = canvas.getContext("2d")
+
+# 取畫布的寬與高度
+width = canvas.width
+height = canvas.height
+
+n = 20
+# 已知數列內容個數, 先分別與 None 對應
+x = [None]*n
+y = [None]*n
+vy = [None]*n
+vx = [None]*n
+# 重力加速度, Y 方向向下為正
+g = 0.05
+# 空氣的黏滯阻尼係數
+cor = 0.7 
+# 球的彈力係數
+fr = 0.95
+# 球的半徑
+r = 5
+
+for i in range(n):
+    x[i] = 300
+    y[i] = 100
+    # random.random() 將會產生介於 0 與 1 的浮點亂數
+    vx[i] = 2*(random.random()-.5)
+    vy[i] = 2*(random.random()-.5)
+
+# 更新第 i 球 Y 座標的運算邏輯
+def updateY(i):
+    if ((y[i]+r) &lt; height):
+        #y = height
+        vy[i] += g
+    else:
+        vy[i] = -vy[i]*cor
+        vx[i] *= fr
+    y[i] += vy[i]
+    if ((y[i]+r) &gt; height):
+        y[i] = height-r
+
+# 更新第 i 球 X 座標的運算邏輯
+def updateX(i):
+    if ((x[i]+r) &gt;= width or (x[i]-r) &lt;= 0):
+        vx[i] = -vx[i]*cor
+    x[i] += vx[i]
+    if ((x[i]+r) &gt; width):
+        x[i] = width-r
+    elif ((x[i]-r) &lt; 0):
+        x[i] = r
+
+# 畫圓函式
+def circle(x,y,r):
+    ctx.beginPath()
+    ctx.arc(x, y, r, 0, math.pi*2, True)
+    ctx.fill()
+
+# 寫字函式
+def text(s):
+    ctx.fillStyle = "#ff0000"
+    ctx.font = "30px sans-serif"
+    ctx.textBaseline = "bottom"
+    ctx.fillText(s,0,height)
+
+# 每隔特定時間, 進行動畫繪製
+def animate():
+    # 刷新畫布
+    ctx.clearRect(0, 0, width, height)
+    # 逐一重新繪製小球
+    ctx.fillStyle = "#000000"
+    for i in range(n):
+        updateY(i)
+        updateX(i)
+        circle(x[i],y[i],r)
+
+text("Click me!")
+
+# 畫布點擊後執行的函式
+def on_canvas_click(ev):
+    browser.timer.set_interval(animate,0)
+
+# 只要使用者點擊在畫布上任何地方, 即執行 on_canvas_click 函式
+canvas.bind('click', on_canvas_click, False)
+&lt;/script&gt;
+
+上列繪圖的程式碼:
+
+~~~html
+&lt;!-- 導入 brython.js --&gt;
+
+&lt;script type="text/javascript" src="./../../js/Brython3.2.3-20151122-082712/brython.js"&gt;&lt;/script&gt;
+
+&lt;!-- 啟動 brython() --&gt;
+
+&lt;script&gt;
+window.onload=function(){
+brython(1);
+}
+&lt;/script&gt;
+
+&lt;!-- 以下利用 Brython 程式執行繪圖 --&gt;
+
+&lt;canvas id="plotarea" width="600" height="400"&gt;&lt;/canvas&gt;
+
+&lt;script type="text/python3"&gt;
+# 導入 browser 模組中的 document, 並設為 doc 變數
+from browser import document as doc
+# 導入數學模組
+import math
+# 產生各小球的亂數速度用
+import random
+# 導入 browser 中的計時器, 建立動畫用
+import browser.timer
+
+# 準備繪圖畫布
+canvas = doc["plotarea"]
+ctx = canvas.getContext("2d")
+
+# 取畫布的寬與高度
+width = canvas.width
+height = canvas.height
+
+n = 20
+# 已知數列內容個數, 先分別與 None 對應
+x = [None]*n
+y = [None]*n
+vy = [None]*n
+vx = [None]*n
+# 重力加速度, Y 方向向下為正
+g = 0.05
+# 空氣的黏滯阻尼係數
+cor = 0.7 
+# 球的彈力係數
+fr = 0.95
+# 球的半徑
+r = 5
+
+for i in range(n):
+    x[i] = 300
+    y[i] = 100
+    # random.random() 將會產生介於 0 與 1 的浮點亂數
+    vx[i] = 2*(random.random()-.5)
+    vy[i] = 2*(random.random()-.5)
+
+# 更新第 i 球 Y 座標的運算邏輯
+def updateY(i):
+    if ((y[i]+r) &lt; height):
+        #y = height
+        vy[i] += g
+    else:
+        vy[i] = -vy[i]*cor
+        vx[i] *= fr
+    y[i] += vy[i]
+    if ((y[i]+r) &gt; height):
+        y[i] = height-r
+
+# 更新第 i 球 X 座標的運算邏輯
+def updateX(i):
+    if ((x[i]+r) &gt;= width or (x[i]-r) &lt;= 0):
+        vx[i] = -vx[i]*cor
+    x[i] += vx[i]
+    if ((x[i]+r) &gt; width):
+        x[i] = width-r
+    elif ((x[i]-r) &lt; 0):
+        x[i] = r
+
+# 畫圓函式
+def circle(x,y,r):
+    ctx.beginPath()
+    ctx.arc(x, y, r, 0, math.pi*2, True)
+    ctx.fill()
+
+# 寫字函式
+def text(s):
+    ctx.fillStyle = "#ff0000"
+    ctx.font = "30px sans-serif"
+    ctx.textBaseline = "bottom"
+    ctx.fillText(s,0,height)
+
+# 每隔特定時間, 進行動畫繪製
+def animate():
+    # 刷新畫布
+    ctx.clearRect(0, 0, width, height)
+    # 逐一重新繪製小球
+    ctx.fillStyle = "#000000"
+    for i in range(n):
+        updateY(i)
+        updateX(i)
+        circle(x[i],y[i],r)
+
+text("Click me!")
+
+# 畫布點擊後執行的函式
+def on_canvas_click(ev):
+    browser.timer.set_interval(animate,0)
+
+# 只要使用者點擊在畫布上任何地方, 即執行 on_canvas_click 函式
+canvas.bind('click', on_canvas_click, False)
+&lt;/script&gt;
+~~~
+</t>
 </tnodes>
 </leo_file>
