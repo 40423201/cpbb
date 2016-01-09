@@ -10,17 +10,17 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="amd.20150913232631.1" a="E"><vh>@settings</vh>
+<v t="amd.20150913232631.1"><vh>@settings</vh>
 <v t="amd.20150913232631.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="amd.20150913232631.3"><vh>@string initial_split_orientation = horizontal</vh></v>
-<v t="amd.20150915153206.1" a="E"><vh>專案說明</vh>
+<v t="amd.20150915153206.1"><vh>專案說明</vh>
 <v t="amd.20150919102209.1" a="E"><vh>使用工具</vh>
 <v t="amd.20150919112415.1"><vh>影片檔案</vh></v>
 </v>
 <v t="amd.20150919102541.1"><vh>pelican 與 Markdown</vh></v>
 </v>
 </v>
-<v t="amd.20150919102739.1" a="E"><vh>專案架構</vh>
+<v t="amd.20150919102739.1"><vh>專案架構</vh>
 <v t="amd.20150919113520.1"><vh>@edit .gitignore</vh></v>
 <v t="amd.20150919103428.1"><vh>reveal.js 設定</vh></v>
 <v t="amd.20150919103341.1"><vh>Jupyter 設定</vh>
@@ -35,7 +35,48 @@
 </v>
 <v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh></v>
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
-<v t="amd.20150919114010.1" a="E"><vh>@path pelican\content</vh>
+<v t="leo.20160109213119.1"><vh>@button user pelican</vh></v>
+<v t="leo.20160109213331.1"><vh>@path ./</vh>
+<v t="leo.20160109213331.2"><vh>以下為投影片 ------------</vh></v>
+<v t="leo.20160109213331.3"><vh>@edit 40423201_cp_w1_p.html</vh></v>
+<v t="leo.20160109213331.4"><vh>@edit 40423201_cp_w2_p.html</vh></v>
+<v t="leo.20160109213331.5"><vh>@edit 40423201_cp_w3_p.html</vh></v>
+<v t="leo.20160109213331.6"><vh>@edit 40423201_cp_w4_p.html</vh></v>
+<v t="leo.20160109213331.7"><vh>@edit 40423201_cp_w5_p.html</vh></v>
+<v t="leo.20160109213331.8"><vh>@edit 40423201_cp_w6_p.html</vh></v>
+<v t="leo.20160109213331.9"><vh>@edit 40423201_cp_w7_p.html</vh></v>
+<v t="leo.20160109213331.10"><vh>@edit 40423201_cp_w8_p.html</vh></v>
+<v t="leo.20160109213331.11"><vh>@edit 40423201_cp_w9_p.html</vh></v>
+<v t="leo.20160109213331.12"><vh>@edit 40423201_cp_w11_p.html</vh></v>
+<v t="leo.20160109213331.13"><vh>@edit 40423201_cp_w12_p.html</vh></v>
+<v t="leo.20160109213331.14"><vh>@edit 40423201_cp_w13_p.html</vh></v>
+<v t="leo.20160109213331.15"><vh>@edit 40423201_cp_w14_p.html</vh></v>
+<v t="leo.20160109213331.16"><vh>@edit 40423201_cp_w15_p.html</vh></v>
+<v t="leo.20160109213331.17"><vh>@edit 40423201_cp_w17_p.html</vh></v>
+<v t="leo.20160109213331.18" a="E"><vh>@path pelican</vh>
+<v t="leo.20160109213331.19"><vh>以下為設定檔 ------------</vh></v>
+<v t="leo.20160109213331.20"><vh>@edit publishconf.py</vh></v>
+<v t="leo.20160109213331.21" a="E"><vh>@path content</vh>
+<v t="leo.20160109213331.22"><vh>以下為網誌 md 檔案 ------------</vh></v>
+<v t="leo.20160109213331.23"><vh>@edit 40423201_cp_w1.md</vh></v>
+<v t="leo.20160109213331.24"><vh>@edit 40423201_cp_w2.md</vh></v>
+<v t="leo.20160109213331.25"><vh>@edit 40423201_cp_w3.md</vh></v>
+<v t="leo.20160109213331.26"><vh>@edit 40423201_cp_w4.md</vh></v>
+<v t="leo.20160109213331.27"><vh>@edit 40423201_cp_w5.md</vh></v>
+<v t="leo.20160109213331.28"><vh>@edit 40423201_cp_w6.md</vh></v>
+<v t="leo.20160109213331.29"><vh>@edit 40423201_cp_w7.md</vh></v>
+<v t="leo.20160109213331.30"><vh>@edit 40423201_cp_w8.md</vh></v>
+<v t="leo.20160109213331.31"><vh>@edit 40423201_cp_w9.md</vh></v>
+<v t="leo.20160109213331.32"><vh>@edit 40423201_cp_w11.md</vh></v>
+<v t="leo.20160109213331.33"><vh>@edit 40423201_cp_w12.md</vh></v>
+<v t="leo.20160109213331.34"><vh>@edit 40423201_cp_w13.md</vh></v>
+<v t="leo.20160109213331.35"><vh>@edit 40423201_cp_w14.md</vh></v>
+<v t="leo.20160109213331.36"><vh>@edit 40423201_cp_w15.md</vh></v>
+<v t="leo.20160109213331.37"><vh>@edit 40423201_cp_w17.md</vh></v>
+</v>
+</v>
+</v>
+<v t="amd.20150919114010.1"><vh>@path pelican\content</vh>
 <v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
@@ -264,7 +305,7 @@
 </v>
 </v>
 </v>
-<v t="ibm.20150918175403.1" a="E"><vh>@clean cpw1.html</vh>
+<v t="ibm.20150918175403.1"><vh>@clean cpw1.html</vh>
 <v t="ibm.20150918175403.2"><vh>檔案說明</vh></v>
 <v t="ibm.20150918175403.3" a="E"><vh>html 標註</vh>
 <v t="ibm.20150918175403.4" a="E"><vh>body 標註</vh>
@@ -489,12 +530,14 @@
 </v>
 </v>
 </v>
+<v t="leo.20160109212911.2"><vh>Recovered Nodes</vh>
+<v t="leo.20160109212911.3"><vh>Recovered node "html 標註" from @clean simplest.html</vh>
+<v t="leo.20160109212911.4"><vh>old:html 標註</vh></v>
+<v t="leo.20160109212911.5"><vh>new:html 標註</vh></v>
+</v>
+</v>
 </vnodes>
 <tnodes>
-<t tx="amd.20150913232627.2">@language xml
-@tabwidth -4
-@others
-</t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -1987,9 +2030,6 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
 	&lt;![endif]--&gt;
 &lt;/head&gt;
-&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
-&lt;/html&gt;
-&gt;&gt;&gt;&gt;&gt;&gt;&gt; 1365161e5ee1a3e979d94ab7def658cb9564abe7
 @others
 </t>
 <t tx="amd.20150915211351.12">&lt;section&gt;
@@ -2235,5 +2275,66 @@ g.es("pelican 執行完畢")</t>
     &lt;p&gt;線上教材&lt;/p&gt;
     &lt;p&gt;影音教材&lt;/p&gt;
 &lt;/section&gt;</t>
+<t tx="leo.20160109212911.2"></t>
+<t tx="leo.20160109212911.3">(uncached) amd.20150915211351.1
+Diff...
+  &lt;!doctype html&gt;
+  &lt;html lang="en"&gt;
+  &lt;head&gt;
+  &lt;meta charset="utf-8"&gt;
+  &lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+  &lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+  	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+  	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+  	&lt;!--[if lt IE 9]&gt;
+  	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+  	&lt;![endif]--&gt;
+  &lt;/head&gt;
++ &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
++ &lt;/html&gt;
++ &gt;&gt;&gt;&gt;&gt;&gt;&gt; 1365161e5ee1a3e979d94ab7def658cb9564abe7
+  @others
+</t>
+<t tx="leo.20160109212911.4">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+&lt;/html&gt;
+&gt;&gt;&gt;&gt;&gt;&gt;&gt; 1365161e5ee1a3e979d94ab7def658cb9564abe7
+@others
+</t>
+<t tx="leo.20160109212911.5">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20160109213119.1">@language python
+import os
+os.system("pelican pelican/content -o ./ -s pelican/publishconf.py -t ../../theme/pelican-octopress")
+g.es("user pelican 執行完畢")</t>
+<t tx="leo.20160109213331.1"></t>
+<t tx="leo.20160109213331.18"></t>
+<t tx="leo.20160109213331.19"></t>
+<t tx="leo.20160109213331.2"></t>
+<t tx="leo.20160109213331.21"></t>
+<t tx="leo.20160109213331.22"></t>
 </tnodes>
 </leo_file>
